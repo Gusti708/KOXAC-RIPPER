@@ -24,9 +24,9 @@ global.qris = "https://a.top4top.io/0.jpeg"
 
 
 // GLOBAL SETTING
-global.owner = "6285260483560"
+global.owner = "62895351854098"
 global.namabot = "KOXAC"
-global.nomorbot = "6285260483560"
+global.nomorbot = "62895351854098"
 global.namaCreator = "KOXAC"
 global.linkyt = "https://youtube.com/@ALWICRASH"
 global.autoJoin = false
